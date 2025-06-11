@@ -73,3 +73,49 @@
 <h1 align="left">I'M GRAPHIC DESIGNER🧠🪄</h1>
 
 ###
+
+
+
+
+
+
+
+
+
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<h1 align="center"></h1>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left"></h3>
+
+###
