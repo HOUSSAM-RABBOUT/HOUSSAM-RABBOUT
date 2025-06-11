@@ -74,73 +74,20 @@
 
 ###
 
-
-
-
-
-
-
-
-<div align="right">
-  <img height="160" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycGRmd2FyN241NjN2MHc1bTZvNnh3Mmx5ZnE3NmU5ZWlsaWpvdmVuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xPzHi7P2hVyVMs/giphy.gif"  />
-</div>
-
-###
-
 <div align="center">
 </div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<h1 align="center"></h1>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
-<h3 align="left"></h3>
 
 ###
 
 <div align="left">
-</div>
-
-###<div align="right">
   <img height="160" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycGRmd2FyN241NjN2MHc1bTZvNnh3Mmx5ZnE3NmU5ZWlsaWpvdmVuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xPzHi7P2hVyVMs/giphy.gif"  />
 </div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<h3 align="left"></h3>
 
 ###
 
 <h1 align="center"></h1>
 
 ###
-
-<h3 align="left"></h3>
-
-###
-
-<br clear="both">
 
 <p align="left"></p>
 
@@ -154,3 +101,13 @@
 </div>
 
 ###
+
+<h3 align="left"></h3>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+
